@@ -53,7 +53,7 @@ On the final day of our web wizardry adventure, we will put all our skills to th
 - Day 01: Jan 23, 3 - 5 PM, G03 + G04 AB1, VIT-AP University
 - Day 02: Jan 26, 3 - 5 PM, G03 + G04 AB1, VIT-AP University
 - Day 03: Jan 30, 3 - 5 PM, G03 + G04 AB1, VIT-AP University
-- Day 04: Coming Soon
+- Day 04: Feb 4, 4 - 6 PM, G03 + G04, AB1, VIT-AP University
 - Day 05: Coming Soon
 
 ## Learning Outcomes
